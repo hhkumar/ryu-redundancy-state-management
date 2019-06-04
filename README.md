@@ -4,7 +4,9 @@ A proof of concept that demonstrates redundancy and state management in Ryu cont
 
 Requirements:
 [Ryu](https://osrg.github.io/ryu/) controller installed on primary and standy servers
+
 Open vSwitch (OVS) configured to connect to the ryu controllers
+
 Hosts for simulating workstations
 
 The entire environment can be set up on physical devices or in GNS3 as shown below.
